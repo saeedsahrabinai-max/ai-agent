@@ -1,0 +1,6 @@
+{
+  "name": "Threadline — Instagram DM Agent",
+  "description": "AI-powered Instagram direct message automation workspace with real-time sentiment analysis, priority lead triage, templated responses, and CRM synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
